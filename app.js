@@ -280,3 +280,4 @@ document.getElementById('getPatientButton').addEventListener('click', function (
         alert('Failed to fetch patient details');
     });
 });
+// Made By Traj
