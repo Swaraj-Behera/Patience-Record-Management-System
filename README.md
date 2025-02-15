@@ -25,7 +25,7 @@ The application uses Web3.js to interact with an Ethereum smart contract deploye
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/medical-record-system.git
+   git clone https://github.com/Swaraj-Behera/Patience-Record-Management-System.git
 Open the index.html file in your browser. Ensure that MetaMask is installed and connected to an Ethereum network.
 How to Use
 Adding a New Patient
